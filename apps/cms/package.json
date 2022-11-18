@@ -1,0 +1,15 @@
+{
+    "name": "cms",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "private": true,
+    "dependencies": {
+        "@clorith/bedrock-wp-env": "^4.6.0",
+        "@wordpress/env": "^4.6.0"
+    },
+    "scripts": {
+        "bedrock-wp-env": "bedrock-wp-env",
+        "dev": "wp-env start"
+    }
+}
