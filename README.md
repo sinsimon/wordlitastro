@@ -1,6 +1,6 @@
-# Turborepo starter
+# WIP
 
-This is an official Yarn v1 starter turborepo.
+A monorepo for sharing web components between WP Gutemberg and Astro
 
 ## What's inside?
 
